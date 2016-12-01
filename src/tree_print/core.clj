@@ -10,9 +10,7 @@
 (defn build-tree [height]
   (loop [num-chars 1 level height tree []]
     (if (> level 0)
-      (do
-        ;(conj tree (get-line level num-chars))
-        (recur (+ num-chars 2) (dec level) (conj tree (get-line level num-chars))))
+      (recur (+ num-chars 2) (dec level) (conj tree (get-line level num-chars)))
       tree)))
 
 (defn print-tree [height]
