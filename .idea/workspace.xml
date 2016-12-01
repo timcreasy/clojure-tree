@@ -21,8 +21,8 @@
       <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tree_print/core.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -100,7 +100,7 @@
       </pane>
     </panes>
   </component>
-  <component name="ReplState" timestamp="1480604156813">{:repl-history {:ide [], :local [&quot;(repeat \&quot;*\&quot;)&quot; &quot;(repeat 4 \&quot;*\&quot;)&quot;], :remote []}}</component>
+  <component name="ReplState" timestamp="1480604214406">{:repl-history {:ide [], :local [&quot;(repeat \&quot;*\&quot;)&quot; &quot;(repeat 4 \&quot;*\&quot;)&quot;], :remote []}}</component>
   <component name="RunManager" selected="Clojure REPL.Lein REPL">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -274,8 +274,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/tree_print/core.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="38" />
           <folding />
         </state>
       </provider>
